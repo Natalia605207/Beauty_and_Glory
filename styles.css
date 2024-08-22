@@ -139,6 +139,7 @@ p, td, h4 {
     border-radius: 10px;
     background-color: #DEB6AB;
     flex:1;
+    padding: 20px;
 }
 
 .list {
